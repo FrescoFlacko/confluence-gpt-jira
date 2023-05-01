@@ -19,6 +19,8 @@ This is done by the following flow:
 This project was created as part of a hackathon. This proof of concept was completed in ~4 hours and work hasn't been done on it since. 
 This code can still be used if anyone wants to expand on this idea. 
 
+## Architecture
+![Project Architecture]('cgj architecture.png')
 ## Limitations
 There are several notable limitations considering the project was developed in a few hours:
  - The flow is limited to 1 JIRA ticket per Confluence page.
