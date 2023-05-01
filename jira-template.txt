@@ -1,0 +1,26 @@
+Format for JIRA ticket:
+
+Description:
+
+Problem Statement: {problem_statement}
+
+Story Template: {user_story}
+
+UX/UI + Copy
+N/A
+
+Development
+* Change implemented on desktop and iPad
+* {frontend}
+* {backend}
+
+QA
+* Validate changes in English and French
+* Validate changes on desktop and iPad
+Additional Testing Requirements:
+                * {qa}
+Dependencies
+N/A
+
+Additional Information
+N/A

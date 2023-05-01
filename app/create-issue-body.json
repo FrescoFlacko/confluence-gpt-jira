@@ -1,0 +1,41 @@
+{
+    "fields": {
+        "description": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Test",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ]
+        },
+        "environment": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "SIT",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ]
+        },
+        "issuetype": {
+            "id": "10000"
+        },
+        "labels": [
+            "bugfix"
+        ],
+        "priority": {
+            "id": "20000"
+        },
+        "summary": "Test summary"
+    },
+    "update": {}
+}
