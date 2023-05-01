@@ -32,7 +32,7 @@ There are several notable limitations considering the project was developed in a
 To run, just clone the project then run `python main.py`. 
 
 You must have the following environment variables before running:
- - **OPEN_API_KEY**: OpenAI API key that you can retrieve in the [API Keys page](https://platform.openai.com/account/api-keys).
+ - **OPEN_API_KEY**: OpenAI API key that you can retrieve in the [API Keys](https://platform.openai.com/account/api-keys) page.
  - **ATLASSIAN_API_KEY**: Atlassian API key to make Confluence and JIRA API calls.
  - **MAIN_DOMAIN**: The main domain name of your Atlassian pages. (https://<domain>.atlassian.net/).
  - **ATLASSIAN_EMAIL**: Your Atlassian e-mail.
